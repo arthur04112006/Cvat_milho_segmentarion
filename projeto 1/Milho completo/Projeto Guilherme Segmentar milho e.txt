@@ -1,0 +1,5 @@
+Projeto Guilherme Segmentar milho e contar:
+Segmentar os objetos: Planta toda
+Contagem de objeto...
+Treinar um modelo
+Componentes Conectados
